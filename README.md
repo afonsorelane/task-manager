@@ -32,9 +32,10 @@ A aplicação permite ao utilizador criar, concluir e remover tarefas, oferecend
    git clone https://github.com/afonsorelane/task-manager.git
 
 2. **Instalar as dependências**
+   ```bash
    npm i
 
-3. **Iniciar o projeto**
-  npm run dev
-5. 
-6. 
+4. **Iniciar o projeto**
+   ```bash
+   npm run dev
+   
